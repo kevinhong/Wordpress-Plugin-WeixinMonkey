@@ -52,4 +52,6 @@ The WordPress Plugin Weixinmonkey is licensed under the GPL v2 or later.
 * Email: kevin.yanghong@gmail.com
 * Blog: http://kevinyang.duapp.com
 * 新浪微博:  @可行性架构
+* 项目地址: https://github.com/kevinhong/Wordpress-Plugin-WeixinMonkey
+
 

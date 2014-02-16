@@ -73,7 +73,7 @@ function initCustomreplyTable() {
 								iDisplayIndexFull) {
 
 							var erlink = '';
-							if (aData.qrticket.length > 0) {
+							if (aData.qrticket!=null && aData.qrticket.length > 0) {
 								
 								erlink =  ' | <a target=_balnk href="https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket='
 										+ aData.qrticket + '">查看二维码</a>'

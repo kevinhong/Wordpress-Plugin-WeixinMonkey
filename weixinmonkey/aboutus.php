@@ -73,6 +73,7 @@ function kwxrobot_aboutus() {
 <li>Email: <a href="mailto:kevin.yanghong@gmail.com">kevin.yanghong@gmail.com</a></li>
 <li>Blog: <a href="http://kevinyang.duapp.com">http://kevinyang.duapp.com</a></li>
 <li>新浪微博:  @可行性架构</li>
+<li>项目地址: https://github.com/kevinhong/Wordpress-Plugin-WeixinMonkey</li>
 </ul>
 </div>
 <?php

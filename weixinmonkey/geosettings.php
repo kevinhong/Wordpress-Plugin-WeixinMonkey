@@ -7,7 +7,7 @@ function kwxrobot_geosetting() {
 <script src="<?php echo KWR_URL; ?>/js/geosettings.js"></script>
 
 <script type="text/javascript"
-	src="http://api.map.baidu.com/api?v=2.0&ak=RQZeAMITnbQZYGy3t95VpPZV"></script>
+	src="http://api.map.baidu.com/api?v=2.0&ak=RQZeAM"></script>
 <style type="text/css">
 body,html,#allmap {
 	width: 100%;
